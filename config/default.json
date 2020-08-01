@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://mahesh123:mahesh123@newdevconnector.gczxe.mongodb.net/newDev?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "52f0867c290a6828679f",
+  "githubSecret": "e642b356af3f4c50d947c2dca010d077c2c43fd3"
 }
